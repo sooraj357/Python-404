@@ -13,3 +13,6 @@ def two_sum(nums, target):
 # Call the function *after* defining it
 result = two_sum(nums, target)
 print("Indices:", result)
+
+
+# Find indices of two numbers that add up to a target
